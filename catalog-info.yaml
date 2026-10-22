@@ -19,7 +19,7 @@ metadata:
 spec:
   type: service
   lifecycle: production
-  owner: 0GiS0
-  system: tour-of-heroes
+  owner: nombre-equipo-owner
+  system: nombre-system
   dependsOn: ['resource:heroes-db']
   apiConsumedBy: ['component:www-heroes']
