@@ -1,10 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: heroes-api
-  description: Heroes API is a RESTful API that provides manages heroes.
+  name: prueba-api-meli
+  description: PRUEBA API is a RESTful API .
   tags:
-    - dotnet
+    - java
     - data
   links:
     - url: https://github.com/0GiS0/tour-of-heroes-dotnet-api
